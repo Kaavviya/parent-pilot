@@ -1,0 +1,680 @@
+{
+"age_groups": [
+    {
+        "age": "0-1 year",
+        "sleep_problems":
+            [
+                {
+                "problem": "Frequent night waking",
+                "description": "The baby wakes up multiple times during the night, often crying or fussing.",
+                "tips": ["Establish a consistent bedtime routine to signal that it's time to sleep.","Try feeding and diapering before bedtime to reduce disturbances.","Use gentle rocking or white noise to help soothe your baby back to sleep."]
+                },
+                {
+                "problem": "Day-night confusion",
+                "description": "The baby sleeps during the day but stays awake at night.",
+                "tips": ["Expose your baby to natural light during the day and dim lights in the evening.","Engage in quiet, calming activities in the evening to help signal nighttime.","Keep night feedings calm and quiet, with minimal light and stimulation."]
+                }
+            ],
+        
+        "eating_problems":
+            [
+                {
+                "problem": "Refusal to eat solid foods",
+                "description": "The baby resists eating pureed or solid foods, preferring milk only.",
+                "tips": ["Introduce new foods slowly, one at a time, and offer a variety of textures.","Offer food in a calm environment and avoid pressuring them to eat.","Try offering solid foods when the baby is alert and not too hungry or tired."]
+                },
+                {
+                "problem": "Gagging on solid food",
+                "description": "The baby gags when introduced to new textures, making mealtime challenging.",
+                "tips": ["Start with soft, small pieces of food to reduce gagging.","Allow the baby to explore food with their hands to build familiarity.","Encourage self-feeding to help them control how much food goes in their mouth."]
+                }
+            ],
+
+        "health_problems":
+            [
+                {
+                "problem": "Colic",
+                "description": "Frequent, prolonged, and intense crying or fussiness in an otherwise healthy baby.",
+                "tips": ["Try soothing techniques like rocking, swaddling, or gentle motion.","Ensure the baby is not hungry or needs a diaper change.","Consult a pediatrician if symptoms persist or worsen."]
+                },
+                {
+                "problem": "Diaper rash",
+                "description": "Skin irritation in the diaper area, often due to prolonged exposure to wetness.",
+                "tips": ["Change diapers frequently and keep the area dry and clean.","Apply a gentle, hypoallergenic diaper cream to protect the skin.","Allow diaper-free time to let the skin breathe."]
+                },
+                {
+                "problem": "Fever",
+                "description": "A temperature higher than normal, often due to infection or teething.",
+                "tips": ["Monitor the fever and keep the baby hydrated.","Dress them in light clothing and keep the room cool.","Consult a doctor if the fever is high or persists for more than a day."]
+                }
+            ],
+
+        "nutrition_tips":
+            [
+                {
+                "problem": "Breast milk or formula",
+                "description": "Breast milk or infant formula is recommended as the primary source of nutrition for the first 6 months.",
+                "tips": ["Breast milk", "Infant formula"]
+                },
+                {
+                "problem": "Introducing solid foods",
+                "description": "Introduce solid foods at around 6 months, starting with iron-rich foods to support development.",
+                "tips": ["Iron-fortified cereals", "Pureed vegetables", "Mashed fruits", "Soft meats"]
+                },
+                {
+                "problem": "Avoid honey",
+                "description": "Do not give honey to infants under 1 year due to the risk of botulism.",
+                "tips": []
+                }
+            ],
+
+        "care_tips":
+            [
+                {
+                "problem": "Establish a routine",
+                "description": "Creating a daily routine helps babies feel secure and understand what to expect.",
+                "tips": ["Set consistent times for feeding, bathing, and bedtime.","Follow the baby's cues for sleep and feeding."]
+                },
+                {
+                "problem": "Skin care",
+                "description": "Gentle skin care is important for an infant's delicate skin.",
+                "tips": ["Use mild, fragrance-free products for bathing.","Moisturize the baby's skin regularly to prevent dryness."]
+                },
+                {
+                "problem": "Bonding and interaction",
+                "description": "Interaction through talking, singing, and eye contact is crucial for emotional development.",
+                "tips": ["Hold and cuddle the baby often.","Talk and sing to the baby during daily activities."]
+                }
+            ],
+
+        "behavior_problems": 
+        [
+            {
+            "problem": "Crying and fussiness",
+            "description": "Crying is the primary way infants communicate their needs, such as hunger, discomfort, or tiredness.",
+            "tips": ["Check for basic needs like hunger, diaper change, or temperature discomfort.","Soothe the baby by rocking, swaddling, or using white noise."]
+            },
+            {
+            "problem": "Separation anxiety",
+            "description": "Babies may become upset when separated from their primary caregiver.",
+            "tips": ["Practice short separations to help the baby adjust gradually.","Offer a comfort object like a blanket or toy."]
+            }
+        ],
+
+        "education_problems": 
+            [
+                {
+                "problem": "Stimulating cognitive development",
+                "description": "At this age, infants need exposure to sensory experiences to enhance brain development.",
+                "tips": ["Provide toys with different textures, colors, and sounds.","Engage in activities like peek-a-boo to encourage recognition and memory."]
+                },
+                {
+                "problem": "Building early language skills",
+                "description": "Infants start learning language by listening and mimicking sounds.",
+                "tips": ["Talk to your baby frequently and narrate daily activities.","Read simple picture books to introduce new sounds and words."]
+                }
+            ],
+
+        "injury_problems": 
+            [
+                {
+                "problem": "Falls from furniture",
+                "description": "Infants are at risk of falling as they start to roll, crawl, and pull themselves up.",
+                "tips": ["Never leave the baby unattended on elevated surfaces like beds or changing tables.","Use safety gates at the top and bottom of stairs."]
+                },
+                {
+                "problem": "Choking hazards",
+                "description": "Babies explore the world by putting objects in their mouths, increasing the risk of choking.",
+                "tips": ["Keep small objects, toys, and food pieces out of reach.","Ensure all toys are age-appropriate and free from detachable small parts."]
+                }
+            ]
+    },
+
+
+
+
+
+
+    {
+        "age": "1-3 years",
+        "sleep_problems":
+            [
+                {
+                "problem": "Difficulty falling asleep alone",
+                "description": "The child resists sleeping alone, often crying or calling for a parent.",
+                "tips": ["Gradually move away from the bed each night to help them get used to sleeping alone.","Give them a comfort item, like a favorite stuffed animal, to hold.","Establish a predictable bedtime routine with calming activities."]
+                },
+                {
+                "problem": "Nighttime fears",
+                "description": "The child may be afraid of the dark or of being alone.",
+                "tips": ["Use a night light to make the room feel more secure.","Avoid scary stories or shows before bed.","Offer reassurance and stay calm, letting them know they're safe."]
+                }
+            ],
+        "eating_problems":
+            [
+                {
+                "problem": "Picky eating",
+                "description": "The toddler refuses certain foods, especially vegetables, and prefers a limited range of foods.",
+                "tips": ["Offer a variety of foods but avoid forcing them to eat.","Encourage a 'try one bite' approach to new foods.","Serve foods in fun shapes or colorful presentations to make meals more appealing."]
+                },
+                {
+                "problem": "Food refusal due to texture",
+                "description": "The toddler refuses foods with certain textures, like crunchy or soft.",
+                "tips": ["Offer a range of textures in small amounts to allow exploration.","Encourage self-feeding to help them adjust to different food textures.","Pair new textures with familiar foods they already like."]
+                }
+            ],
+
+        "health_problems":
+            [
+                {
+                "problem": "Ear infections",
+                "description": "Frequent ear infections causing discomfort, often due to colds or fluid buildup.",
+                "tips": ["Encourage good hygiene to reduce cold-related infections.","Keep the child upright during bottle-feeding to prevent fluid buildup.","Seek medical advice if ear infections are recurring."]
+                },
+                {
+                "problem": "Food allergies",
+                "description": "Allergic reactions to certain foods like peanuts, milk, or eggs.",
+                "tips": ["Introduce new foods gradually to monitor for allergic reactions.","Avoid known allergens and keep emergency medication if needed.","Consult an allergist if signs of an allergy develop."]
+                },
+                {
+                "problem": "Constipation",
+                "description": "Difficulty passing stool, often due to a diet low in fiber.",
+                "tips": ["Increase fiber-rich foods like fruits, vegetables, and whole grains.","Ensure the child drinks enough water throughout the day.","Encourage regular bathroom times to create a routine."]
+                }
+            ],
+
+        "nutrition_tips": 
+            [
+                {
+                "problem": "Balanced diet",
+                "description": "Offer a variety of foods from all food groups to ensure balanced nutrition for growth.",
+                "tips": ["Fruits", "Vegetables", "Whole grains", "Dairy products", "Lean meats"]
+                },
+                {
+                "problem": "Introduce healthy fats",
+                "description": "Healthy fats are important for brain development at this stage.",
+                "tips": ["Avocado", "Nut butters", "Olive oil", "Full-fat dairy"]
+                },
+                {
+                "problem": "Limit sugary foods",
+                "description": "Avoid sugary snacks and drinks to help prevent early tooth decay and establish healthy habits.",
+                "tips": ["Fresh fruit", "Water", "Milk"]
+                }
+            ],
+
+        "care_tips":
+            [
+                {
+                "problem": "Encourage independence",
+                "description": "Promote self-help skills as toddlers begin to explore their independence.",
+                "tips": ["Let them choose their clothes and assist in dressing.","Encourage them to feed themselves with supervision."]
+                },
+                {
+                "problem": "Create a safe environment",
+                "description": "Ensure that the home is child-proofed to prevent accidents.",
+                "tips": ["Use safety gates for stairs and secure furniture to walls.","Keep harmful substances and sharp objects out of reach."]
+                },
+                {
+                "problem": "Promote language development",
+                "description": "Talking, reading, and singing to toddlers helps build language skills.",
+                "tips": ["Read to your child daily and ask questions about the story.","Encourage them to express their feelings and thoughts."]
+                }
+            ],
+
+        "behavior_problems":
+            [
+                {
+                "problem": "Tantrums",
+                "description": "Toddlers may have tantrums as they struggle to express their emotions and deal with frustration.",
+                "tips": ["Stay calm and avoid yelling or punishing during a tantrum.","Help them label their emotions and teach them alternative ways to express themselves."]
+                },
+                {
+                "problem": "Defiance",
+                "description": "Toddlers often say 'no' to assert their independence.",
+                "tips": ["Offer choices to give them a sense of control.","Set clear and consistent boundaries."]
+                }
+            ],
+
+        "education_problems": 
+            [
+                {
+                "problem": "Developing attention span",
+                "description": "Toddlers have short attention spans, making learning activities challenging.",
+                "tips": ["Engage in short, interactive activities like matching games.","Gradually increase the duration of activities as their focus improves."]
+                },
+                {
+                "problem": "Encouraging early problem-solving skills",
+                "description": "Toddlers need guidance to explore and solve simple problems.",
+                "tips": ["Provide puzzles and sorting games to develop logical thinking.","Ask open-ended questions to encourage them to think and explore."]
+                }
+            ],
+
+        "injury_problems": 
+            [
+                {
+                "problem": "Burns and scalds",
+                "description": "Toddlers are curious and may touch hot surfaces or liquids.",
+                "tips": ["Keep hot liquids, pots, and appliances out of reach.","Use stove knob covers and never leave a toddler unattended in the kitchen."]
+                },
+                {
+                "problem": "Poisoning",
+                "description": "Toddlers may accidentally ingest harmful substances like cleaning products or medications.",
+                "tips": ["Store all chemicals and medicines in locked cabinets.","Keep the poison control center number handy."]
+                }
+            ]
+    },
+       
+    
+
+
+
+
+
+
+    {
+        "age": "4-6 years",
+        "sleep_problems":
+            [
+                {
+                "problem": "Bedtime resistance",
+                "description": "The child frequently tries to delay bedtime, asking for 'one more' activity.",
+                "tips": ["Set a consistent bedtime and stick to it as much as possible.","Offer a countdown, like '5 more minutes' as bedtime approaches.","Create a bedtime chart with rewards for going to bed on time."]
+                },
+                {
+                "problem": "Frequent waking due to nightmares",
+                "description": "The child wakes up scared from bad dreams.",
+                "tips": ["Discuss the dream briefly and provide comfort without too much discussion.","Encourage a relaxing pre-sleep routine with a favorite story or calming music.","Help them create a positive bedtime 'ritual' that makes them feel safe."]
+                }
+            ],
+
+        "eating_problems":
+            [
+                {
+                "problem": "Preference for unhealthy snacks",
+                "description": "The child prefers sweets or chips over nutritious meals.",
+                "tips": ["Limit the availability of unhealthy snacks and keep healthy options within reach.","Teach the importance of healthy foods by involving them in meal preparation.","Use healthy foods as rewards, not treats, to encourage positive habits."]
+                },
+                {
+                "problem": "Food neophobia (fear of new foods)",
+                "description": "The child is reluctant to try new foods, preferring only familiar options.",
+                "tips": ["Introduce new foods in a positive, low-pressure setting.","Encourage them to touch and smell the food before tasting.","Model eating the new food yourself to show it's safe and enjoyable."]
+                }
+            ],
+        
+        "health_problems": 
+            [
+                {
+                "problem": "Frequent colds",
+                "description": "Recurring colds due to exposure to germs at preschool or daycare.",
+                "tips": ["Teach proper handwashing techniques to prevent the spread of germs.","Provide a balanced diet to boost their immune system.","Consult a doctor if colds are severe or persistent."]
+                },
+                {
+                "problem": "Growing pains",
+                "description": "Aches or pains in the legs, especially at night.",
+                "tips": ["Massage the legs gently to relieve discomfort.","Apply a warm compress to soothe muscle aches.","Encourage stretching exercises during the day."]
+                },
+                {
+                "problem": "Seasonal allergies",
+                "description": "Allergic reactions to pollen, dust, or other environmental triggers.",
+                "tips": ["Keep windows closed during high pollen seasons.","Encourage frequent handwashing and avoid outdoor play during peak allergy hours.","Consult an allergist for medication or further treatment if necessary."]
+                }
+            ],
+
+        "nutrition_tips":
+            [
+                {
+                "problem": "Calcium for bone health",
+                "description": "Calcium is essential for bone growth, and dairy or fortified alternatives are good sources.",
+                "tips": ["Milk", "Yogurt", "Cheese", "Fortified plant-based milk"]
+                },
+                {
+                "problem": "Protein for growth",
+                "description": "Include a variety of protein sources to support muscle and tissue development.",
+                "tips": ["Eggs", "Beans", "Lean meats", "Fish", "Tofu"]
+                },
+                {
+                "problem": "Encourage vegetables and fruits",
+                "description": "Offer colorful fruits and vegetables to provide essential vitamins and minerals.",
+                "tips": ["Carrots", "Spinach", "Berries", "Apples"]
+                }
+            ],
+
+        "care_tips":
+            [
+                {
+                "problem": "Foster social skills",
+                "description": "Help preschoolers develop social skills through play and interaction with peers.",
+                "tips": ["Organize playdates with other children.","Teach sharing and turn-taking during games."]
+                },
+                {
+                "problem": "Establish limits and rules",
+                "description": "Setting clear boundaries helps children understand expectations and consequences.",
+                "tips": ["Communicate rules clearly and consistently.","Use positive reinforcement for good behavior."]
+                },
+                {
+                "problem": "Encourage physical activity",
+                "description": "Regular physical activity is essential for health and development.",
+                "tips": ["Provide opportunities for outdoor play and structured activities.","Limit screen time to encourage more active play."]
+                }
+            ],
+
+        "behavior_problems": 
+            [
+                {
+                "problem": "Lying",
+                "description": "Children may lie to avoid punishment or gain approval.",
+                "tips": ["Explain the importance of honesty and the consequences of lying.","Praise them for telling the truth, even when it’s difficult."]
+                },
+                {
+                "problem": "Aggressive behavior",
+                "description": "Children may hit, kick, or bite when they are angry or upset.",
+                "tips": ["Teach them to express anger using words instead of physical actions.","Provide positive reinforcement when they handle conflicts calmly."]
+                }
+            ],
+
+        "education_problems": 
+            [
+                {
+                "problem": "Learning basic literacy and numeracy",
+                "description": "Preschoolers need to develop foundational skills in reading, writing, and math.",
+                "tips": ["Use alphabet and number flashcards to make learning fun.","Encourage them to trace letters and numbers to improve fine motor skills."]
+                },
+                {
+                "problem": "Building social learning",
+                "description": "At this stage, children learn through interaction with peers.",
+                "tips": ["Organize group activities like storytime or cooperative games.","Teach them to share and take turns during play."]
+                }
+            ],
+
+        "injury_problems": 
+            [
+                {
+                "problem": "Road safety",
+                "description": "Preschoolers are at risk of injury from running into the street or improper use of car seats.",
+                "tips": ["Teach them basic road safety rules, like looking both ways before crossing.","Ensure they are properly restrained in a car seat or booster seat."]
+                },
+                {
+                "problem": "Playground injuries",
+                "description": "Children may fall or get hurt while playing on playground equipment.",
+                "tips": ["Supervise children at the playground and ensure equipment is age-appropriate.","Check that the playground has soft surfaces like sand or rubber."]
+                }
+            ]
+    },
+
+
+
+
+
+
+    {
+        "age": "7-12 years",
+        "sleep_problems":
+            [
+                {
+                "problem": "Insomnia",
+                "description": "Difficulty falling asleep or staying asleep through the night.",
+                "tips": ["Limit screen time before bed and establish a no-screen rule one hour before bedtime.","Encourage relaxation exercises like deep breathing or gentle stretching before bed.","Ensure they have a comfortable sleep environment, with a cool, dark room."]
+                },
+                {
+                "problem": "Sleep anxiety",
+                "description": "The child feels anxious about going to bed, possibly fearing sleep.",
+                "tips": ["Teach relaxation techniques, like deep breathing or visualization.","Encourage them to express their feelings about bedtime anxieties.","Provide reassurance and create a relaxing bedtime routine."]
+                }
+            ],
+
+        "eating_problems":
+            [
+                {
+                "problem": "Skipping meals, especially breakfast",
+                "description": "The child skips meals, often due to a lack of time or interest.",
+                "tips": ["Prepare quick, healthy options for breakfast like smoothies or overnight oats.","Encourage a family meal schedule to make eating more routine.","Discuss the importance of balanced meals for energy and growth."]
+                },
+                {
+                "problem": "Overeating due to stress or boredom",
+                "description": "The child eats excessively, especially during stressful times or boredom.",
+                "tips": ["Encourage activities to keep them occupied outside of mealtime.","Teach mindfulness techniques to help them recognize hunger cues.","Keep healthy snacks available and limit high-calorie foods in the home."]
+                }
+            ],
+
+        "health_problems":
+            [
+                {
+                "problem": "Asthma",
+                "description": "Breathing difficulties triggered by allergens, exercise, or cold air.",
+                "tips": ["Identify and avoid asthma triggers, like smoke or pet dander.","Ensure they have access to their inhaler during physical activities.","Follow a treatment plan as prescribed by a healthcare provider."]
+                },
+                {
+                "problem": "Obesity",
+                "description": "Excess body weight due to unhealthy eating habits and lack of exercise.",
+                "tips": ["Encourage a balanced diet with fruits, vegetables, and whole grains.","Limit sugary snacks and drinks, and promote water intake.","Encourage physical activities like biking, sports, or active play."]
+                },
+                {
+                "problem": "Headaches",
+                "description": "Frequent headaches, often due to stress, dehydration, or eye strain.",
+                "tips": ["Ensure they stay hydrated throughout the day.","Encourage breaks from screen time to reduce eye strain.","Consult a doctor if headaches are severe or frequent."]
+                }
+            ],
+
+        "nutrition_tips":
+            [
+                {
+                "problem": "Increase fiber intake",
+                "description": "Fiber helps with digestion and is important for overall health.",
+                "tips": ["Whole grains", "Fruits", "Vegetables", "Legumes"]
+                },
+                {
+                "problem": "Healthy snacking",
+                "description": "Offer healthy snacks to maintain energy levels throughout the day.",
+                "tips": ["Nuts", "Yogurt", "Fruit slices", "Vegetable sticks"]
+                },
+                {
+                "problem": "Limit processed foods",
+                "description": "Avoid highly processed foods that are high in sugar and sodium.",
+                "tips": ["Fresh fruits", "Whole foods", "Homemade meals"]
+                }
+            ],
+
+        "care_tips":
+            [
+                {
+                "problem": "Support academic learning",
+                "description": "Encourage a positive attitude toward learning and homework.",
+                "tips": ["Set up a quiet, well-lit study area for homework.","Show interest in their schoolwork and praise their efforts."]
+                },
+                {
+                "problem": "Teach responsibility",
+                "description": "Involve children in household chores to foster a sense of responsibility.",
+                "tips": ["Assign age-appropriate tasks like setting the table or cleaning their room.","Use a reward system to motivate them."]
+                },
+                {
+                "problem": "Promote healthy friendships",
+                "description": "Encourage children to develop friendships with their peers.",
+                "tips": ["Teach conflict resolution skills and empathy.","Discuss the importance of choosing friends wisely."]
+                }
+            ],
+
+        "behavior_problems": 
+            [
+                {
+                "problem": "Sibling rivalry",
+                "description": "Jealousy or competition between siblings can lead to frequent arguments or fights.",
+                "tips": ["Encourage teamwork and praise cooperative behavior.","Spend individual time with each child to make them feel valued."]
+                },
+                {
+                "problem": "Disrespectful behavior",
+                "description": "Children may talk back or show defiance as they test limits.",
+                "tips": ["Address disrespect calmly and explain why the behavior is unacceptable.","Model respectful communication in your interactions."]
+                }
+            ],
+
+        "education_problems": 
+            [
+                {
+                "problem": "Managing homework and study habits",
+                "description": "School-age children may struggle with organizing their homework and study time.",
+                "tips": ["Create a dedicated, distraction-free study space.","Help them develop a study schedule and prioritize tasks."]
+                },
+                {
+                "problem": "Staying motivated in school",
+                "description": "Children may lose interest in schoolwork if they find it challenging or unengaging.",
+                "tips": ["Set achievable goals and celebrate their successes.","Relate school subjects to real-life situations to make learning more relevant."]
+                }
+            ],
+
+        "injury_problems":
+            [
+                {
+                "problem": "Sports injuries",
+                "description": "School-age children may suffer sprains, fractures, or concussions during physical activities.",
+                "tips": ["Ensure they wear appropriate safety gear, such as helmets and pads.","Encourage proper warm-up and stretching before sports."]
+                },
+                {
+                "problem": "Bicycle accidents",
+                "description": "Children riding bicycles may be at risk of falls or collisions.",
+                "tips": ["Teach them to always wear a helmet and follow traffic rules.","Ensure their bike is the right size and in good condition."]
+                }
+            ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "age": "13-16 years",
+        "sleep_problems": 
+            [
+                {
+                "problem": "Delayed sleep phase syndrome",
+                "description": "The teenager has difficulty falling asleep early and prefers staying up late.",
+                "tips": ["Encourage a consistent sleep schedule, even on weekends.","Limit caffeine and avoid heavy meals close to bedtime.","Help them gradually shift their bedtime earlier by 15 minutes every few days."]
+                },
+                {
+                "problem": "Stress-related sleep difficulties",
+                "description": "Schoolwork, social issues, or general stress may disrupt sleep patterns.",
+                "tips": ["Teach stress-management techniques, like journaling or meditation.","Encourage winding down with a relaxing activity like reading or listening to calm music.","Make sure they are not using devices close to bedtime, as blue light disrupts sleep."]
+                }
+            ],
+
+        "eating_problems":
+            [
+                {
+                "problem": "Unhealthy dieting behaviors",
+                "description": "The teenager may skip meals or follow restrictive diets, often due to body image concerns.",
+                "tips": ["Discuss the importance of balanced nutrition for energy and growth.","Encourage healthy eating rather than restrictive dieting.","Be a positive role model by promoting a balanced diet and positive body image."]
+                },
+                {
+                "problem": "Preference for fast food and sugary snacks",
+                "description": "The teenager often chooses fast food and sweets over balanced meals.",
+                "tips": ["Teach them about the impact of junk food on their health and energy.","Encourage meal planning with them to include favorite healthy options.","Limit fast food outings by preparing healthy, appealing alternatives at home."]
+                }
+            ],
+
+        "health_problems":
+            [
+                {
+                "problem": "Acne",
+                "description": "Skin condition that causes pimples, often due to hormonal changes.",
+                "tips": ["Encourage a gentle skin care routine and avoid harsh products.","Limit sugary and greasy foods, which may exacerbate acne.","Consult a dermatologist if acne becomes severe or persistent."]
+                },
+                {
+                "problem": "Anxiety and stress",
+                "description": "Feelings of stress or anxiety, often related to school, peers, or self-image.",
+                "tips": ["Encourage open communication and listen to their concerns.","Teach stress-management techniques like deep breathing or journaling.","Consider professional help if anxiety impacts daily activities."]
+                },
+                {
+                "problem": "Sleep deprivation",
+                "description": "Inadequate sleep, often due to academic pressure or device use late at night.",
+                "tips": ["Encourage a consistent bedtime and reduce screen time in the evening.","Promote a relaxing bedtime routine to wind down.","Discuss the importance of sleep for energy, focus, and overall health."]
+                }
+            ],
+
+        "nutrition_tips":
+            [
+                {
+                "problem": "Iron for growth",
+                "description": "Iron needs increase during adolescence, especially for girls, to support growth and development.",
+                "tips": ["Red meat", "Leafy greens", "Beans", "Fortified cereals"]
+                },
+                {
+                "problem": "Protein for muscle development",
+                "description": "Adequate protein intake is important for muscle growth and repair.",
+                "tips": ["Chicken", "Fish", "Eggs", "Quinoa", "Tofu"]
+                },
+                {
+                "problem": "Hydration",
+                "description": "Encourage drinking water throughout the day, especially during physical activity.",
+                "tips": ["Water", "Hydrating fruits like watermelon", "Low-sugar beverages"]
+                }
+            ],
+
+        "care_tips":
+            [
+                {
+                "problem": "Encourage open communication",
+                "description": "Creating a safe space for discussions helps build trust and understanding.",
+                "tips": ["Listen actively to their thoughts and concerns without judgment.","Ask open-ended questions to encourage dialogue."]
+                },
+                {
+                "problem": "Support independence and decision-making",
+                "description": "Teenagers should learn to make their own decisions while knowing they have your support.",
+                "tips": ["Encourage them to set personal goals and make choices regarding their activities.","Discuss potential consequences of their decisions."]
+                },
+                {
+                "problem": "Monitor mental health",
+                "description": "Be aware of signs of stress or anxiety and provide support as needed.",
+                "tips": ["Check in regularly about their emotional well-being.","Encourage healthy coping strategies like exercise or hobbies."]
+                }
+            ],
+
+        "behavior_problems": 
+            [
+                {
+                "problem": "Mood swings",
+                "description": "Teenagers often experience mood swings due to hormonal changes and stress.",
+                "tips": ["Encourage open communication and listen without judgment.","Help them identify healthy coping strategies like exercise or journaling."]
+                },
+                {
+                "problem": "Risk-taking behavior",
+                "description": "Teens may engage in risky activities as they seek independence and peer approval.",
+                "tips": ["Discuss the potential consequences of risky behavior openly.","Set clear expectations and consequences for their actions."]
+                }
+            ],
+
+        "education_problems":
+            [
+                {
+                "problem": "Handling academic pressure",
+                "description": "Teens often face increased academic demands and pressure to perform well.",
+                "tips": ["Encourage healthy study habits, including breaks and balanced schedules.","Offer support and reassurance to help them manage stress."]
+                },
+                {
+                "problem": "Improving time management",
+                "description": "Balancing school, extracurricular activities, and personal time can be challenging.",
+                "tips": ["Teach them to use planners or digital tools to track assignments and deadlines.","Encourage them to prioritize tasks and avoid procrastination."]
+                }
+            ],
+
+        "injury_problems": 
+            [
+                {
+                "problem": "Car accidents as passengers",
+                "description": "Teenagers may be at risk of injury if proper car safety measures are not followed.",
+                "tips": ["Ensure they always wear seat belts and discourage distracted driving behaviors.","Discuss the dangers of riding with inexperienced or reckless drivers."]
+                },
+                {
+                "problem": "Sports-related concussions",
+                "description": "Teens involved in contact sports are at a higher risk of head injuries.",
+                "tips": ["Ensure they understand the signs of a concussion and the importance of reporting injuries.","Encourage adherence to safety rules and proper techniques in sports."]
+                }
+            ]
+    }
+
+
+
+    ]
+}
